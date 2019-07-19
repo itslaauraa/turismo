@@ -1,0 +1,27 @@
+
+	body{background-image: url("bg.jpg");
+	min-height: 380px; 
+	background-position: center; 
+	background-repeat: 
+	no-repeat; background-size: cover;
+	position: relative;
+	font-family: sans-serif;
+	}
+	h1 {text-align: center;}
+
+
+	ul {clear:both;
+		margin-top: 2%;
+		text-align: center;
+		overflow:hidden;
+	}
+		
+	li {float:left;
+		width:180px; 
+		background-color: white;
+		border: solid 10px #AEB6BF; 
+	}
+	a { display: block;
+	}
+	.clear {clear:both;}
+
